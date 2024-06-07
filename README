@@ -11,7 +11,7 @@ No makefile for now. It compiles with:
 gcc -o quad main.c quad.c disp.c 
 
 It isn't particularly special... it's a basic greedy algorithm. 
-If I recall correctly, the evaluation function is pretty slick. 
+The function to check for a win is one line of bitwise math. 
 
 
 Copyright 1996-2012 Jeremy Madea
